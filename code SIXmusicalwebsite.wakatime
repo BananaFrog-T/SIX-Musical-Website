@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>SIX: The Real Lives of the Wives of Henry VIII and How They Compare to Their Musical Counterparts</title>
+    </head>
+    <body style="background-color:lavender;">
+        <h1 style="text-align:center;">SIX: The Real Lives of the Wives of Henry VIII and How They Compare to Their Musical Counterparts</h1>
+        <img src="https://retrospectjournal.com/wp-content/uploads/2023/04/six-image.jpg?w=1024" alt="SIX Musical Poster Image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+        <h2 style="margin-left:10%; margin-right:10%">Catherine of Aragon</h2>
+        <p style="margin-left:15%; margin-right:10%">Catherine of Aragon was married to Henry VIII from 1509-1533. She was a Spanish princess, the daughter of Ferdinanad II of Aragon and Isabella I of Castile. She was originally married to Henry's brother, Arthur, but after his death, she married Henry. When Catherine failed to produce a male heir her marriage to Henry was annulled., though she did have a daughter, Mary I. Catherine lived out her days in isolation and died in 1536.</p>
+        <h2 style="margin-left:10%; margin-right:10%">Anne Boleyn</h2>
+        <p style="margin-left:15%; margin-right:10%">Anne Boleyn was married to Henry VIII from 1533-1536. She was a lady-in-waiting to Catherine of Aragon and was from a noble English family. Her marriage to Henry VIII led to England breaking from the Catholic Church. Anne gave birth to Elizabeth I; but she was accused of adultery, incest, and treason. In the end, she was beheaded at the Tower of London.</p>
+        <h2 style="margin-left:10%; margin-right:10%">Jane Seymour</h2>
+        <p style="margin-left:15%; margin-right:10%">Jane Seymour was married to Henry VIII from 1536-1537. Jane was a lady-in-waiting to both wives before her, and was from a noble English family. Jane gave birth to Henry's only male heir, Edward VI. Unfortunately she died shortly after childbirth due to postnatal complications. She was buried next to Henry, who called her his "true wife."</p>
+        <h2 style="margin-left:10%; margin-right:10%">Anne of Cleves</h2>
+        <p style="margin-left:15%; margin-right:10%">Anne of Cleves was married to Henry VIII from January to July of 1540. She was a German nolewoman whom Henry for political alliance. Henry claimed Anne was not as attractive as her portrait and their marriage was annulled after six months, though they remained on good terms. Anne was given a generous settlement and lived comfortably in England for the rest of her life.</p>
+        <h2 style="margin-left:10%; margin-right:10%">Catharine Howard</h2>
+        <p style="margin-left:15%; margin-right:10%">Catherine Howard was married to Henry VIII from 1540-1542. She was the cousin of Anne Boleyn and a member of the powerful Howard family. Catherine Howard was much younger than Henry and she was accused of adultery. She was charged with treason and executed at the Tower of London.</p>
+        <h2 style="margin-left:10%; margin-right:10%">Catharine Parr</h2>
+        <p style="margin-left:15%; margin-right:10%">Catherine Parr was married to Henry VIII from 1543-1547. She was a twice-widowed noblewoman who was highly-educaed and religious. Catherine Parr outlived Henry VIII and acted as a stepmother and regent. She married Thomas Seymour after Henry died, but then died shortly after giving birth in 1548.</p>
+        <button type="button" style="border:blueviolet, 2px; color: plum; padding: 15px 32px; text-align: center; text-decoration: darkgray; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Color Analysis</button>
+        <button type="button" style="border:blueviolet, 2px; color: plum; padding: 15px 32px; text-align: center; text-decoration: darkgray; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Music Analysis</button>
+        <button type="button" style="border:blueviolet, 2px; color: plum; padding: 15px 32px; text-align: center; text-decoration: darkgray; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Historical Analysis</button>
+        </body>
+</html>
